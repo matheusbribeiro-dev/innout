@@ -23,6 +23,7 @@
                 <i class="icofont-runner-alt-1 ml-2"></i>
             </div> 
             <div class="card-body">
+                <?php include TEMPLATE_PATH . '/messages.php' ?>
                 <!-- from email -->
                 <div class="form-group">   
                     <label for="email">E-mail</label>
